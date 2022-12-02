@@ -1,8 +1,0 @@
-telegram_api_key = '5642461792:AAFCIEms3tpgjphtYOONLhacapMcQ8WnACw'
-fns_api_key = '7d94224ada019dbff5390249379b9ffe51a8547a'
-pdf_api_key = 'bce675e1b94c35d6030f81b6a281c4e4116e4e17'
-damia_zakupki_api_key = '780b3539a3011ef47648904e252aa577cee237a8'
-damia_contracts_api_key = '780b3539a3011ef47648904e252aa577cee237a8'
-damia_arb_api_key = '94c281d20d11e97ab3055938521f7cdb6a9a605f'
-damia_report_key = '11a41c2dc7cd73f40e2f6b76c6c68ed3a894722f'
-damia_fssp_key = '3dc0381ac737bce8e319f547ef6638b62d7ee04e'
